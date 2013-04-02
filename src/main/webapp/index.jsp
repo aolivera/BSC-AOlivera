@@ -4,7 +4,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<style type="text/css" rel> </style>
 <link type="text/css" rel="stylesheet" href="CSS/style.css"/>
 <title>here is my title</title>
 </head>
@@ -16,5 +15,22 @@ current time :<%= new java.util.Date() %><br/>
 person name : <%= request.getParameter("name") %><br>
 
 <% out.println("hello"); %>
+
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
+<h1>hello again</h1>
 </body>
 </html>
